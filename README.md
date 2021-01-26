@@ -1,4 +1,4 @@
-# mysite
+# MySite
 Made with Python, Django (Python framework for web development), HTML & CSS
 
 What did the page do?</br>
